@@ -1,4 +1,4 @@
-# Type Theme
+# Gang - Press
 
 Official Blog for "The Gang"
 
