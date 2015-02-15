@@ -1,8 +1,9 @@
 .site-footer {
   @extend %padding-regular;
+  font-family: 'Satisfy', cursive; 
   display: inline-block;
   text-align: center;
   width: 100%;
-  color: lighten($text-color, 30%);
+  color: black; 
   font-size: 0.9em;
 }

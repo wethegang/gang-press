@@ -18,15 +18,15 @@ article {
   }
 }
 header {
-  h1 {
+  h1, h2 {
     margin: 0;
   }
   .meta {
     color: rgba($text-color, .5);
     font-size: 0.9em;
     letter-spacing: 0.1em;
+    font-family: $font-family_2;
     margin: 0;
-    text-transform: uppercase;
   }
 }
 .feature-image {
