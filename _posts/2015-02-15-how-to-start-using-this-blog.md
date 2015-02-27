@@ -4,7 +4,7 @@ title: How to Start Using This Blog
 author: Kaushal
 ---
 
-This Blog Post Would help you understand the flow of Construction of this blog. I would Start with the construction.
+This Blog Post Would help you understand the flow of Construction of this blog and let you teach you things need to write your first blog in "gang-press"
 
 #### How did we do it !
 
@@ -33,13 +33,13 @@ The most important thing to understand in publishing a post in Jekyll based blog
 #### How to publish a blog post
 
 Its very easy to create a blog post, Just create a markdown file and place it in "_posts" with a specific name. jekyll will take care of the rest.
-Here I would explain, step by step instructions of doing the above with suitable references.
+Here are the  step by step instructions of doing the above with suitable references.
 
-1. Create the blog post in [MarkDown]( 
+1. Create the blog post in [MarkDown](http://daringfireball.net/projects/markdown/)
 
 2. name the blog posts in this format " YYYY-MM-DD-title-of-the-blog.md ".
 
-3. Place the blog post in _posts directory of the repository and follow these steps
+3. Place the blog post in _posts directory of the repository and before placing, follow these steps
 
 * Clone the repository 
 {% highlight bash %}
@@ -62,7 +62,7 @@ git push
 
 #### Preview your blog
 
-Previewing is a bit difficult, because you need to have jekyll installed locally. If you follow these steps you can have your environment set as quickly as possible and start blogging.
+Previewing is a bit difficult, because you need to have jekyll installed locally. Here are the instructions to set your environment as soon as  possible and start blogging.
 
 * follow these instructions for installation of jekyll ([Instructions](http://jekyllrb.com/docs/installation/))
 
@@ -70,11 +70,13 @@ Previewing is a bit difficult, because you need to have jekyll installed locally
 {% highlight bash %}
 git clone https://github.com/wethegang/gang-press.git 
 {% endhighlight %}
+
 * Go to the root of the repository and use jekyll to construct a local copy of the blog and host it in the local server
 {% highlight bash %}
 cd gang-press
 jekyll serve
 {% endhighlight %}
+
 * Open the browser and connect to local host
 {% highlight bash %}
 google-chrome

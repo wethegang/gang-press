@@ -11,9 +11,10 @@ theme:
   
   # Header and footer text
   header_text: >
-      <p style="font-family: 'Satisfy', cursive; font-weight: bold"> The Gangs Official Blog -  <i style="color: #4C99DC"> "Gang - Press" </i> </p>
+      <p style="font-family: 'Satisfy', cursive;"> The Gangs Official Blog -  <i style="color: #4C99DC"> "Gang - Press" </i> </p>
       
-      <p style="font-family: 'Satisfy', cursive; font-weight: bold; color: black"><i style="color:#4C99D6"> News : </i> We have a very fresh new startup budding in Vizag under the banner of <i style="color: #4C99D6"> " The Gang " </i>  </p>
+      <p style="font-family: 'Satisfy', cursive; color: black"><i style="color:#4C99D6"> News : </i> We have two new startup budding in Vizag under the banner of <i style="color: #4C99D6"> " The Gang " </i>  </p>
+      <p style="font-family: 'Satisfy', cursive; color: black"> We Wish them Best of Luck !!! </p>
      
   footer_text: >
       Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> & Made with <i class="fa fa-heart"></i> at Atlanta
